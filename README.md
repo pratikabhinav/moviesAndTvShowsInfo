@@ -4,6 +4,6 @@ A JavaScript/jQuery app designed using Bootstrap CSS and HTMl, that fetches movi
 <br>
 <h6>Resources</h6>
 <a href="https://www.npmjs.com/package/axios">Axios NPM</a> <br>
-<a href="www.omdbapi.com/">OMDB API</a> <br>
+<a href="https://www.omdbapi.com/">OMDB API</a> <br>
 
 Find the working website <a href="http://movieinfo.000webhostapp.com/">here</a>.
